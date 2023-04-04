@@ -1,2 +1,2 @@
 # Unemployement-Analysis
-Data Science Project
+Data Science Project using Exploratory Data Analysis (EDA)
